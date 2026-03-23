@@ -2,7 +2,7 @@
 
 > **Building Smart Digital Solutions for Modern Businesses**
 
----
+
 
 ## 👨‍💻 About Us
 
@@ -17,7 +17,7 @@ We specialize in:
 
 Our goal is to help businesses **grow, automate, and scale efficiently** using modern technology.
 
----
+
 
 ## 🔥 Featured Projects
 
@@ -31,7 +31,7 @@ Here are some of our best works:
 * Advanced protection mechanisms
 * Built for modern digital threats
 
----
+
 
 ### 📚 Study Platform
 
@@ -41,7 +41,7 @@ Here are some of our best works:
 * User-friendly interface
 * Designed for students & educators
 
----
+
 
 ### 🎓 College Event Hub
 
@@ -51,7 +51,7 @@ Here are some of our best works:
 * कॉलेज events को manage करने के लिए
 * आसान और efficient tracking
 
----
+
 
 ### 🧠 Deepfake Pro
 
@@ -61,7 +61,7 @@ Here are some of our best works:
 * Advanced image/video processing
 * Innovation-driven project
 
----
+
 
 ### 🤖 Smart AI Habit Tracker
 
@@ -71,7 +71,7 @@ Here are some of our best works:
 * Productivity improvement tool
 * Smart insights & tracking
 
----
+
 
 ## 👥 Our Team
 
@@ -80,21 +80,20 @@ Here are some of our best works:
 * Veerendra Vishwakarma
   🔗 https://github.com/codingguru2221
 
----
 
 ### ⚙️ Backend Developer
 
 * Manjhi Codecraft
   🔗 https://github.com/manjhicodecraft
 
----
+
 
 ### 🎨 Designer
 
 * BuildWithPreet
   🔗 https://github.com/buildwithpreet
 
----
+
 
 ## 🌟 What We Do
 
@@ -106,19 +105,19 @@ we build **solutions that solve real-world problems**.
 ✔️ AI-Based Tools
 ✔️ Automation Solutions
 
----
+
 
 ## 📈 Our Vision
 
 To become a leading software solution company that empowers businesses with technology and innovation.
 
----
+
 
 ## 📬 Contact
 
 📧 [thecodexofficial001@gmail.com](mailto:thecodexofficial001@gmail.com)
 
----
+
 
 ## ⭐ Support Us
 
